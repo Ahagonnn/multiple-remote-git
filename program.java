@@ -6,6 +6,6 @@ class program {
     inputUser = Scanner(System.in);
     System.out.print("Input kata yang ingin di print: ");
     kata = inputUser.next();
-    System.out.println("Print: "+kata);
+    System.out.println("Output: "+kata);
       }
     }
