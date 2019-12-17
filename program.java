@@ -4,7 +4,7 @@ class program {
     string kata;
     Scanner inputUser;
     inputUser = Scanner(System.in);
-    System.out.print("Masukan kata yang ingin di print: ");
+    System.out.print("Input kata yang ingin di print: ");
     kata = inputUser.next();
     System.out.println("Print: "+kata);
       }
