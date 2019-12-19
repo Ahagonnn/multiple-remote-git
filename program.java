@@ -4,7 +4,7 @@ class program {
     string kata;
     Scanner inputUser;
     inputUser = Scanner(System.in);
-    System.out.println("\n\tProgram input kata");
+    System.out.println("\n\tProgram input kata apa saja");
     System.out.print("Input kata: ");
     kata = inputUser.next();
     System.out.println("Output: "+kata);
